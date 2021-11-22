@@ -9,7 +9,7 @@ A continuación van a ver una lista de algunos editores de textos populares:
 
 ![Sublime text](./img/sublime.png)
 
-Es un editor de texto liviano, que cuenta con una serie de plugins para adaptarlo a las necesidades de cada desarrollador.
+Es un editor de texto liviano , que cuenta con una serie de plugins para adaptarlo a las necesidades de cada desarrollador.
 
 Es multiplataforma, por lo que se puede instalar tanto en Windows, como Linux y OS X.
 
@@ -32,10 +32,10 @@ Elegimos la opción adecuada según nuestro sistema operativo e iniciamos la des
 
 Finalizada la descarga, ejecutamos el instalador, seleccionamos las opciones siguiente, siguiente, etc, hasta completar el proceso.
 
-## En Linux, en la distribución Ubuntu y derivados: 
+## En Linux, en la distribución Ubuntu y derivados:
 
-Nos dirigimos al sitio oficial de Sublime Text. 
-Aquí encontrarás las instrucciones para instalarlo https://www.sublimetext.com/docs/3/linux_repositories.html. 
+Nos dirigimos al sitio oficial de Sublime Text.
+Aquí encontrarás las instrucciones para instalarlo https://www.sublimetext.com/docs/3/linux_repositories.html.
 
 
 En la terminal, ejecutamos el siguiente comando, para instalar la clave GPG:
